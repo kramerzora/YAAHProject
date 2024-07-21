@@ -3,10 +3,12 @@
 ## Description of Project
 This project contains bar charts for "The Evaluation of California's Homeless
 Housing Assistance and Prevention (HHAP) Youth Set-Aside Funding: 2024 Interim Report" 
+This broject also contains [Tableau Dashboard Workbook](https://public.tableau.com/shared/3RTPDB8NS?:display_count=n&:origin=viz_share_link)  
 Also included is the final report in pdf format
 
 ### Description of Individual Files
-* 
+* %AVGEXP.csv and Threshold.csv are the data files I used for Tableau
+* The workbook is the Interim Report.twbx file
 * LoadFile.R contains code to load csv files to R. It also contains drafts of code for many of the bar charts
 *  Please note I received the data as tables. In order to use ggplot, I transformed the data to long format using tidyr's pivot_longer
 * Each Bar Chart has two versions. One version colored by Round (final bar chart) and one version colored by category (first draft)
