@@ -6,6 +6,7 @@ Housing Assistance and Prevention (HHAP) Youth Set-Aside Funding: 2024 Interim R
 Also included is the final report in pdf format
 
 ### Description of Individual Files
+* 
 * LoadFile.R contains code to load csv files to R. It also contains drafts of code for many of the bar charts
 *  Please note I received the data as tables. In order to use ggplot, I transformed the data to long format using tidyr's pivot_longer
 * Each Bar Chart has two versions. One version colored by Round (final bar chart) and one version colored by category (first draft)
