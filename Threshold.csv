@@ -1,0 +1,31 @@
+ROUND,Category,% Meets Threshold
+1,Obligation,91
+1,Expenditures,53
+2,Obligation,90
+2,Expenditures,25
+3,Obligation,62
+3,Expenditures,5
+1,Rural ,54
+1,Suburban,51
+1,Urban,54
+2,Rural ,30
+2,Suburban,15
+2,Urban,32
+3,Rural ,12
+3,Suburban,0
+3,Urban,7
+1,W_YHPD,67
+1,WO_YHDP,48
+2,W_YHPD,33
+2,WO_YHDP,22
+3,W_YHPD,12
+3,WO_YHDP,2
+1,Low HPI,60
+1,Mid HPI,38
+1,High HPI,58
+2,Low HPI,10
+2,Mid HPI,30
+2,High HPI,11
+3,Low HPI,0
+3,Mid HPI,22
+3,High HPI,0
